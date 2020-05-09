@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+	background-color: #2d3436;
+	background-image: url(vid/Untitled-2.png);
+	background-position: center;
+}
+.video{
+	margin: 0; 
+	width: 850px;
+}
+video{
+	width: 100%;
+	
+	transform: translate(29%, 10% );
+}
+h1{
+	color: #c8d6e5;
+	transform: translate(67%, 0% );
+}
+.photo{
+	background: cover;
+}
+h1{
+    color: white;
+    transform: translate(67%, -1230%);
+    background: none;
+    font-family: century Gothic;
+   
+    
+}
